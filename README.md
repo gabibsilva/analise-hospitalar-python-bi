@@ -1,5 +1,5 @@
 # Análise de Dados Hospitalares: Integrando Python & Power BI
-
+![Dashboard do Projeto](BI%20projeto%201.png)
 ## Sobre o Projeto
 Este projeto demonstra o ciclo completo de um analista de dados: desde a identificação de um erro crítico na base de dados até a visualização estratégica para tomada de decisão.
 
